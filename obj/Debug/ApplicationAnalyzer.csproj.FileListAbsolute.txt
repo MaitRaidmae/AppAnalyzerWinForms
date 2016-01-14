@@ -1,0 +1,14 @@
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\bin\Debug\ApplicationAnalyzer.exe.config
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\obj\Debug\ApplicationAnalyzer.Properties.Resources.resources
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\obj\Debug\ApplicationAnalyzer.csproj.GenerateResource.Cache
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\bin\Debug\ApplicationAnalyzer.exe
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\bin\Debug\ApplicationAnalyzer.pdb
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\obj\Debug\ApplicationAnalyzer.exe
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\obj\Debug\ApplicationAnalyzer.pdb
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\bin\Debug\Oracle.DataAccess.dll
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\obj\Debug\ApplicationAnalyzer.LoginScreen.resources
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\obj\Debug\ApplicationAnalyzer.Forms.ApplicationsScreen.resources
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\obj\Debug\ApplicationAnalyzer.Forms.ApplicationAnalyzerMain.resources
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\obj\Debug\ApplicationAnalyzer.csprojResolveAssemblyReference.cache
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\obj\Debug\ApplicationAnalyzer.Forms.ApplicationChecksScreen.resources
+G:\ApplicationAnalyzer\ApplicationAnalyzer\ApplicationAnalyzer\obj\Debug\ApplicationAnalyzer.Forms.CheckSuitsScreen.resources
